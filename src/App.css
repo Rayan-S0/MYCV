@@ -1,8 +1,11 @@
 .App {
   text-align: center;
 }
-
 .App-logo {
+  height: 5vmin;
+  pointer-events: none;
+}
+.CApp-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -23,7 +26,11 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.projectcontainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .App-link {
   color: #61dafb;
 }
