@@ -15,9 +15,9 @@ const CustomNavbar = () => {
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
-          <Nav.Link href="/">Home</Nav.Link>
-          <Nav.Link href="/Projects">Projects</Nav.Link>
-          <Nav.Link href="/About">About</Nav.Link>
+          <Nav.Link href="/MYCV/#/">Home</Nav.Link>
+          <Nav.Link href="/MYCV/#/Projects">Projects</Nav.Link>
+          <Nav.Link href="/MYCV/#/About">About</Nav.Link>
           <NavDropdown title="Find me at" id="basic-nav-dropdown">
             <NavDropdown.Item href="https://github.com/Rayan-S0">
               GitHub

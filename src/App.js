@@ -8,7 +8,7 @@ import About from "./pages/about";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/">
       <Switch>
         <Route exact path="/" component={Home} />
         <Route exact path="/Projects" component={Projects2} />
