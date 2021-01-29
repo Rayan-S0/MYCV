@@ -1,6 +1,6 @@
 import "./App.css";
 import { useState, Fragment } from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import Home from "./pages/home";
 import NotFound from "./pages/NotFound";
 import Projects2 from "./pages/projects2";
