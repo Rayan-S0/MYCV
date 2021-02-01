@@ -50,6 +50,21 @@ const Projects2 = () => {
                 Back in highschool, I developed an android app that help
                 tousrists navigate through my beatiful hometowm of bachrreh
               </CustomCard2>
+
+              <CustomCard2 header="Server Room" title="Solid works">
+                We designed a server room Cooling system on solid work and was
+                simulated using solidwork's CFD solver
+              </CustomCard2>
+
+              <CustomCard2 header="CAD Vehicles" title="Solid works">
+                We designed several vehicles including trucks, helicopters and
+                much more for our computer aided design school project
+              </CustomCard2>
+
+              <CustomCard2 header="Solar Panel" title="MyRio">
+                we implemented a PID controller for a solar collector to
+                maximize it's efficiency by always following the sun
+              </CustomCard2>
             </Row>
           </Container>
         </header>

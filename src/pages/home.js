@@ -23,6 +23,7 @@ const Home = () => {
                 <Skills name="Python" val="93" />
                 <Skills name="Solid Works" val="90" />
                 <Skills name="COMSOL Multi-Physiques" val="90" />
+                <Skills name="A.I" val="85" />
                 <Skills name="Microprocessors" val="80" />
                 <Skills name="Matlab" val="75" />
                 <Skills name="React" val="75" />
