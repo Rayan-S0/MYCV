@@ -11,10 +11,7 @@ const Projects2 = () => {
         <header className="App-header">
           <Container>
             <Row className="projectcontainer" noGutters>
-              <CustomCard2
-                header="Rubik’sssss Cube Solver"
-                title="MyRIo (Labview)"
-              >
+              <CustomCard2 header="Rubik’s Cube Solver" title="MyRIo (Labview)">
                 DEVELOPED A CODE ON LABVIEW THAT SCANS A RUBIK’S CUBE USING A
                 CAMERA AND PROCEED TO SOLVE IT USING 8 SERVO MOTORS
               </CustomCard2>
@@ -47,6 +44,11 @@ const Projects2 = () => {
               <CustomCard2 header="Computational Fluid Dynamics" title="Python">
                 DEVELOPED SEVERAL CFD CODES TO SOLVE ADVECTION-DIFFUSION
                 EQUATION, BURGERS EQUATION AND NAVIER-STOCKS EQUATION
+              </CustomCard2>
+
+              <CustomCard2 header="Bcharreh's Tourist Guide" title="Android">
+                Back in highschool, I developed an android app that help
+                tousrists navigate through my beatiful hometowm of bachrreh
               </CustomCard2>
             </Row>
           </Container>

@@ -65,8 +65,8 @@ const Home = () => {
                 <Row>
                   <ListGroup variant="flush">
                     <ListGroup.Item variant="dark">
-                      Research project on memristors, how to improve them and
-                      how to implement them in machine learning and neuromorphic
+                      Research project on memristors, improving them and
+                      implementing them in machine learning and neuromorphic
                       neural networks
                     </ListGroup.Item>
                     <ListGroup.Item variant="light">
