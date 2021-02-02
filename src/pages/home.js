@@ -71,7 +71,7 @@ const Home = () => {
                       neural networks
                     </ListGroup.Item>
                     <ListGroup.Item variant="light">
-                      Built a spin coater to get nano-scale nafion membrane to
+                      Built a spin coater to get nano-scale Nafion membrane to
                       build the memristors
                     </ListGroup.Item>
                     <ListGroup.Item variant="dark">
@@ -79,8 +79,8 @@ const Home = () => {
                       engine and investigation of potential application
                     </ListGroup.Item>
                     <ListGroup.Item variant="light">
-                      Modeled the Poisson-Nernest-Planck equation using COMSOL
-                      to optimize the buoyancy engines parameters
+                      Modeled the Poisson-Nernst-Planck equation using COMSOL to
+                      optimize the buoyancy engines parameters
                     </ListGroup.Item>
                     <ListGroup.Item
                       variant="dark"
@@ -99,9 +99,9 @@ const Home = () => {
                 <Row>
                   <ListGroup variant="flush">
                     <ListGroup.Item variant="dark">
-                      Recieved the USAID ScholarShip in August 2017 for my
+                      Received the USAID ScholarShip in August 2017 for my
                       academic performance and my social activities and
-                      participation in many non academic programes
+                      participation in many academic and nonacademic programs
                     </ListGroup.Item>
                   </ListGroup>
                 </Row>

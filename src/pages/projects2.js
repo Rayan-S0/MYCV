@@ -12,58 +12,59 @@ const Projects2 = () => {
           <Container>
             <Row className="projectcontainer" noGutters>
               <CustomCard2 header="Rubik’s Cube Solver" title="MyRIo (Labview)">
-                DEVELOPED A CODE ON LABVIEW THAT SCANS A RUBIK’S CUBE USING A
-                CAMERA AND PROCEED TO SOLVE IT USING 8 SERVO MOTORS
+                Developed a code on labview that scans a rubik’s cube using a
+                camera and proceed to solve it using 8 servo motors
               </CustomCard2>
 
               <CustomCard2 header="The Boat" title="Solid works, Matlab">
-                WE MADE A BOAT THAT PROPEL USING KINEMATIC LINKAGE -MODELED THE
-                SEVEN BAR LINKAGES ON MATLAB -VERIFIED THE DESIGN ON SOLID WORKS
+                Developed a boat that propels using kinematic linkage -modeled
+                the seven-bar linkages on Matlab -verified the design on solid
+                work
               </CustomCard2>
               <CustomCard2 header="Finite Elements" title="Python">
-                DEVELOPED 2 FINITE ELEMENTS CODES -ONE TO SOLVE A ONE
-                DIMENSIONAL LINEAR IONIC DIFFUSION PROBLEM -THE SECOND TO SOLVE
-                2D FRAMES AND TRUSSES STRUCTURES OF ANY SHAPE
+                Developed 2 finite elements codes, one to solve a one
+                dimensional linear ionic diffusion problem, the second to solve
+                2d frames and trusses structures of any shape
               </CustomCard2>
               <CustomCard2
                 header="Water jet machining process optimization"
                 title=""
               >
-                THIS WAS A SMALL RESEARCH WHERE WE INVESTIGATED A METHOD FOR
-                PARAMETER OPTIMIZATION OF WATER JET MACHINING USING DIFFERENT AI
-                TECHNIQUES
+                This was small research where we investigated a method for
+                parameter optimization of water jet machining using different ai
+                techniques
               </CustomCard2>
               <CustomCard2
                 header="Smart Robotic Arm"
                 title="Python, Neat, Pygame"
               >
-                I MODELED A 3DOF 2D ROBOTIC ARM IN PYGAME AND TAUGHT IT HOW TO
-                REACH OBJECTS USING THE NEAT MODULE WHICH IS A COMBINATION OF
-                NEURAL NETWORKS AND GENETIC ALGORITHM
+                Modeled a 3dof 2d robotic arm in PyGame and taught it how to
+                reach objects using the neat module which is a combination of
+                neural networks and genetic algorithm
               </CustomCard2>
               <CustomCard2 header="Computational Fluid Dynamics" title="Python">
-                DEVELOPED SEVERAL CFD CODES TO SOLVE ADVECTION-DIFFUSION
-                EQUATION, BURGERS EQUATION AND NAVIER-STOCKS EQUATION
+                Developed several CFD codes to solve advection-diffusion
+                equation, burgers equation, and Navier-stocks equation
               </CustomCard2>
 
               <CustomCard2 header="Bcharreh's Tourist Guide" title="Android">
-                Back in highschool, I developed an android app that help
-                tousrists navigate through my beatiful hometowm of bachrreh
+                Back in high school, I developed an android app that helps
+                tourists navigate through my beautiful hometown of Bcharreh
               </CustomCard2>
 
               <CustomCard2 header="Server Room" title="Solid works">
-                We designed a server room Cooling system on solid work and was
-                simulated using solidwork's CFD solver
+                Designed a server room Cooling system on SolidWorks and was
+                simulated using SolidWorks CFD solver
               </CustomCard2>
 
               <CustomCard2 header="CAD Vehicles" title="Solid works">
-                We designed several vehicles including trucks, helicopters and
-                much more for our computer aided design school project
+                Designed several vehicles including trucks, helicopters and much
+                more for our computer-aided design school project
               </CustomCard2>
 
               <CustomCard2 header="Solar Panel" title="MyRio">
-                we implemented a PID controller for a solar collector to
-                maximize it's efficiency by always following the sun
+                Implemented a PID controller for a solar collector to maximize
+                its efficiency by always following the sun
               </CustomCard2>
             </Row>
           </Container>
