@@ -27,7 +27,7 @@ const CustomNavbar = () => {
             </NavDropdown.Item>
             <NavDropdown.Divider />
             <NavDropdown.Item href="https://www.facebook.com/rayan.succar/">
-              FaceBook
+              Facebook
             </NavDropdown.Item>
           </NavDropdown>
         </Nav>
