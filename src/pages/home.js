@@ -61,6 +61,22 @@ const Home = () => {
                 </Row>
                 <br />
                 <Row>
+                  <p>Current Job</p>
+                </Row>
+                <Row>
+                  <ListGroup variant="flush">
+                    <ListGroup.Item
+                      variant="light"
+                      action
+                      href="https://camerabotics.com/"
+                    >
+                      Software Engineer At Camerabotics inc
+                    </ListGroup.Item>
+                  </ListGroup>
+                </Row>
+                <br />
+
+                <Row>
                   <p>Experience</p>
                 </Row>
                 <Row>
